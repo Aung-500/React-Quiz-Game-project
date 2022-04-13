@@ -14,7 +14,7 @@ import { Download as DownloadIcon } from '../../icons/download';
 import DeleteIcon from '@mui/icons-material/Delete';
 
 
-export const CustomerListToolbar = (props) => (
+export const UserListToolbar = (props) => (
   <Box {...props}>
     <Box
       sx={{
